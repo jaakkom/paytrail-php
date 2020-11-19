@@ -1,5 +1,5 @@
 {
-  "name": "nordsoftware/paytrail-php",
+  "name": "fp/paytrail-php",
   "description": "Paytrail REST client for PHP.",
   "license": "MIT",
   "authors": [
